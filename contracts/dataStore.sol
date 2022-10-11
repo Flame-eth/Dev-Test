@@ -1,5 +1,5 @@
 // Store data point
-//     Unique Number(generated at contract deployment)
+//    A Unique Number(generated at contract deployment)
 //     Account number (111111111)
 //     Available balance ($150)
 // Stored data is readable with just private key
